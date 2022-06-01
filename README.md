@@ -12,6 +12,6 @@
 
 <p>I condust an annual market analysis to identify the most recommended business books published in the preceeding calendar year. I publish this analysis to <strong>Beantown Web</strong>. These recommendations comprise my reading list.</p>
 
-<p>While I do not possess a Masters in Busiess Administration, I consider my ongong committment to business education to be my <strong>alt MBA</strong>. I have read and summarized more tha 150 business books.</p>
+<p>While I do not possess a Masters in Busiess Administration, I consider my ongong committment to business education to be my <strong>alt MBA</strong>. I have read and summarized more than 150 business books.</p>
 
-<p>This repository holds code written for Goodreads book reviews.</p>
+<p>This repository holds code written for book reviews published to Goodreads.</p>
