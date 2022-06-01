@@ -10,4 +10,4 @@
 
 <p>My reading focus is <strong>business books</strong>, particularly in the areas of <strong>leadership</strong> and <strong>strategy</strong>.</p>
 
-<p>Code from Goodreads book reviews.>/p>
+<p>Code from Goodreads book reviews.</p>
