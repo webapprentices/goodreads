@@ -1,7 +1,7 @@
 # goodreads
 
 <div id="header" align="center">
-  <img src="https://webapprentices.org/wp-content/uploads/2022/06/goodreads-logo.jpg" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Goodreads_logo.svg/640px-Goodreads_logo.svg.png" width="300"/>
 </div>
 
 Code from Goodreads book reviews.
