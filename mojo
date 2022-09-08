@@ -1,11 +1,11 @@
-Mojo . . . "You're moving forward, making progress, achieving goals, clearing hurdles, passing the competition -- and doing so with increasing ease."
+Mojo . . . "You're moving forward, making progress, achieving goals, clearing hurdles, passing the competition—and doing so with increasing ease."
 
 Mojo consists of four vital ingredients:
 
-~ identity: Who do you think you are?
-~ achievement: What have you done lately?
-~ reputation: Who do other people think you are?
-~ acceptance: What can you change, and what is beyond your control?
+~ <strong>Identity:</strong> Who do you think you are?
+~ <strong>Achievement:</strong> What have you done lately?
+~ <strong>Reputation:</strong> Who do other people think you are?
+~ <strong>Acceptance:</strong> What can you change, and what is beyond your control?
 
 If you are not finding happiness and meaning in the present, then perhaps you lost some of your Mojo.  Marshall Goldsmith will help you get it back with the help of printed materials such as the Mojo Scorecard and guides including the Mojo Toolkit.
 
